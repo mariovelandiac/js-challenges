@@ -6,8 +6,8 @@
 ✅Who likes it? This programs returns a String specifying who likes a post\
 ✅Clock. This implementation uses asynchronism to emulate a real clock\
 ✅Binary Converter. This program converts between binary and decimal
-✅Duplicate Encoder. This program encodes a string with "(" if the character appears several times and a ")" if only appears once
-✅Sum of Numbers. This program return the sum of the integers numbers between a and b (inclusive)
+✅Duplicate Encoder. This program encodes a string with "(" if the character appears several times and a ")" if only appears once\
+✅Sum of Numbers. This program return the sum of the integers numbers between a and b (inclusive)\
 
 ## Pending:
 ❌ Reverse Url path. This program will invert the path of a given URL
