@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#Binary,
+#Decimal {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+input[type="number"],
+input[type="text"],
+button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+button {
+    background-color: #189dc5;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1b2396;
+    color: white;
+}
