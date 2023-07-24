@@ -1,0 +1,19 @@
+{
+  "name": "js-challenges",
+  "version": "1.0.0",
+  "description": "repository of js-challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mariovelandiac/js-challenges.git"
+  },
+  "author": "mariovelandiac <mariovelandiawork@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariovelandiac/js-challenges/issues"
+  },
+  "homepage": "https://github.com/mariovelandiac/js-challenges#readme"
+}
