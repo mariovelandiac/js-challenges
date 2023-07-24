@@ -1,0 +1,11 @@
+{
+  "name": "who-likes-it",
+  "version": "1.0.0",
+  "description": "Program to know who likes a post",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "mariovelandiac <mariovelandiawork@gmail.com>",
+  "license": "ISC"
+}
