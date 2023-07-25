@@ -8,6 +8,7 @@
 ✅Binary Converter. This program converts between binary and decimal\
 ✅Duplicate Encoder. This program encodes a string with "(" if the character appears several times and a ")" if only appears once\
 ✅Sum of Numbers. This program return the sum of the integers numbers between a and b (inclusive)\
+✅Geometric Derivate of a prime Number. This return the geometric derivate of a prime number, the program can uses loops or recursivity
 
 ## Pending:
 ❌ Reverse Url path. This program will invert the path of a given URL
