@@ -11,6 +11,8 @@
 ✅Geometric Derivate of a prime Number. This program return the geometric derivate of a prime number, the program can uses loops or recursivity\
 ✅Camel Case. This program uses several ways to convert a string into a camelCase format
 ✅Is Pangram. This program detects if a phrase is or not a pangram (a sentence that contains all the words of the alphabet)
+✅Unique In Order. This programs returns the elements that are not repeated in a string or into an Array, but by order of appereance
+
 
 ## Pending:
 ❌ Reverse Url path. This program will invert the path of a given URL
