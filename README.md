@@ -12,6 +12,7 @@
 ✅Camel Case. This program uses several ways to convert a string into a camelCase format
 ✅Is Pangram. This program detects if a phrase is or not a pangram (a sentence that contains all the words of the alphabet)
 ✅Unique In Order. This programs returns the elements that are not repeated in a string or into an Array, but by order of appereance
+✅Are the Same. This program indicates if two arrays has te same multiplicity and if the square root of an element is into the elements of the other array
 
 
 ## Pending:
