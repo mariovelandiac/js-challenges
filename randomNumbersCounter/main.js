@@ -16,6 +16,7 @@
   console.log(tokens.length);
 
   // using no regex;
+  // el some indica si dentro de una palabra hay un numero, en caso de que si retorna true, y esa palabra (item) el filter lo tomará, los demás, no
   const tokensOtherWay = input.split(' ').filter((item) => item.split('').some((element) => Number(element) || element == '0'));
   console.log(tokensOtherWay.length);
 })();

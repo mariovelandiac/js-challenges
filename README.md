@@ -16,11 +16,12 @@
 ✅Tokens Counter. This program indicates how many tokens of only numbers exist into a string\
 ✅Find Fibonacci. This program finds the immediate superior Fibonacci number of a given number n\
 ✅Count by a letter. This program finds how many instances of a specific letter are into a string, the letter is selected by the user
-✅Counter Random Numbers. This program finds how many words into a string has at least one number into them
-
+✅Counter Random Numbers. This program counts how many words in a string contain at least one number
+✅Crossword ☠️. This program counts the numbers of times that a word appears in a cross word
 
 
 ## Pending:
+
 ❌ Reverse Url path. This program will invert the path of a given URL
 ❌ Diseña un script en javascript que imprima los primeros 10 formas siguiendo el siguiente patrón (Se muestran sólo las primeras 3):
 Cuando n = 1
