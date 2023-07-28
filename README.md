@@ -12,8 +12,26 @@
 ✅Camel Case. This program uses several ways to convert a string into a camelCase format
 ✅Is Pangram. This program detects if a phrase is or not a pangram (a sentence that contains all the words of the alphabet)
 ✅Unique In Order. This programs returns the elements that are not repeated in a string or into an Array, but by order of appereance
-✅Are the Same. This program indicates if two arrays has te same multiplicity and if the square root of an element is into the elements of the other array
+✅Are the Same. This program indicates if two arrays has te same multiplicity and if the square root of an element is into the elements of the other array\n
+✅Tokens Counter. This program indicates how many tokens of only numbers exist into a string\
+✅Find Fibonacci. This program finds the immediate superior Fibonacci number of a given number n\
+✅Count by a letter. This program finds how many instances of a specific letter are into a string, the letter is selected by the user
+✅Counter Random Numbers. This program finds how many words into a string has at least one number into them
+
 
 
 ## Pending:
 ❌ Reverse Url path. This program will invert the path of a given URL
+❌ Diseña un script en javascript que imprima los primeros 10 formas siguiendo el siguiente patrón (Se muestran sólo las primeras 3):
+Cuando n = 1
+*
+Cuando n = 2
+*
+***
+*
+Cuando n = 3
+*
+***
+*****
+***
+*
