@@ -1,4 +1,4 @@
-# Challenges resolved in JavaScript by mariovelandiac
+ # Challenges resolved in JavaScript by mariovelandiac
 
 ## Resolved:
 ✅Is Palindrome? Check if a word is palindrome or not\
@@ -23,7 +23,7 @@ Cuando n = 1\
 *\
 Cuando n = 2\
 *\
-***\
+***
 **\
 
 
